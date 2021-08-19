@@ -14,7 +14,7 @@
     &kp TAB    &kp Q      &kp W      &kp F      &kp P      &kp B      &kp LBKT   &kp RBKT   &kp J      &kp L      &kp U      &kp Y      &kp SCLN   &none
     &none      &kp A      &kp R      &kp S      &kp T      &kp G                            &kp M      &kp N      &kp E      &kp I      &kp O      &none
     &none      &kp Z      &kp X      &kp C      &kp D      &kp V      &kp LBRC   &kp RBRC   &kp K      &kp H      &kp CMMA   &kp DOT    &kp FSLH   &none
-    &kp ESC    &kp MINUS  &kp EQUAL  &kp APOS   &kp BSLSH                                                  &kp LARW   &kp UARW   &kp DARW   &kp RARW   &none
+    &kp ESC    &kp MINUS  &kp EQUAL  &kp APOS   &kp BSLH                                              &kp LARW   &kp UARW   &kp DARW   &kp RARW   &none
                                                            &kp DEL    &kp LALT   &kp HOME    &kp END
                                                                       &kp LCMD   &kp PGUP
                                                 &kp RET    &kp LSFT                         &kp BKSP   &kp SPC
