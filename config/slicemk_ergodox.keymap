@@ -10,11 +10,11 @@
                 layer_0 {
                         bindings = <
     &bootloader
-    &kp GRAV   &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5  &kp PRSC   &none      &kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0  &kp MINUS
-    &kp TAB    &kp Q      &kp W      &kp F      &kp P      &kp B      &kp CLCK   &kp M_MUTE &kp J      &kp L      &kp U      &kp Y      &kp SCLN   &kp EQUAL
-    &none      &kp A      &kp R      &kp S      &kp T      &kp G                            &kp M      &kp N      &kp E      &kp I      &kp O      &kp APOS
-    &none      &kp Z      &kp X      &kp C      &kp D      &kp V      &kp M_VOLD &kp M_VOLU &kp K      &kp H      &kp CMMA   &kp DOT    &kp FSLH   &kp BSLH
-    &kp ESC    &none      &none      &none      &none                                                  &kp LARW   &kp UARW   &kp DARW   &kp RARW   &none
+    &kp GRAV   &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5  &kp LPAR   &kp RPAR   &kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0  &none
+    &kp TAB    &kp Q      &kp W      &kp F      &kp P      &kp B      &kp LBKT   &kp RBKT   &kp J      &kp L      &kp U      &kp Y      &kp SCLN   &none
+    &none      &kp A      &kp R      &kp S      &kp T      &kp G                            &kp M      &kp N      &kp E      &kp I      &kp O      &none
+    &none      &kp Z      &kp X      &kp C      &kp D      &kp V      &kp LBRC   &kp RBRC   &kp K      &kp H      &kp CMMA   &kp DOT    &kp FSLH   &none
+    &kp ESC    &kp MINUS  &kp EQUAL  &kp APOS   &kp BSLSH                                                  &kp LARW   &kp UARW   &kp DARW   &kp RARW   &none
                                                            &kp DEL    &kp LALT   &kp HOME    &kp END
                                                                       &kp LCMD   &kp PGUP
                                                 &kp RET    &kp LSFT                         &kp BKSP   &kp SPC
